@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arjie%20Bernales&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20from%20the%20ground%20up%2C%20one%20stack%20at%20a%20time.&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=RJ%20Bernales&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20from%20the%20ground%20up%2C%20one%20stack%20at%20a%20time.&descAlignY=60&descSize=16" />
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/RjayBernales?label=Follow&style=social)](https://github.com/RjayBernales)
